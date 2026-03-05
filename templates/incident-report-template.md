@@ -131,7 +131,7 @@ What could be improved?
 Detection gaps?
 Process improvements?
 
-11. Analyst Reflection (For Portfolio Use)
+11. Analyst Reflection 
 
 This section is excellent for GitHub and interviews.
 Highlight:
